@@ -1,0 +1,23 @@
+   {
+    "name": "Ç®èŒÇ¢ìåàüå§ãÜâÔ",
+    "short_name": "Ç®èŒÇ¢ìåàüå§ãÜâÔ",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-BPF0PSO3-6w/YTviHPrU72I/AAAAAAAACF4/JZma64L2Nvwzv_p_3XyFRoAFu2ZW_fKXQCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/--mdGs5kOr0M/YTviHGHqUMI/AAAAAAAACF0/JJjXVu5i310Gl5Shq08_bO4KtzV-WbSTQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.owaraitoua.info"
+}
